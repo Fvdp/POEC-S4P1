@@ -25,7 +25,7 @@ define('DB_NAME', 'wordpresstest');
 define('DB_USER', 'wordpress');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'dream');
+define('DB_PASSWORD', 'xxxx');
 
 /** Adresse de l’hébergement MySQL. */
 define('DB_HOST', 'localhost');
